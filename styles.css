@@ -18,5 +18,7 @@ p {
 
 #run {
   display: block;
-  align: center;
+  width: 460px;
+  margin-left: auto;
+  margin-right: auto;
 }
